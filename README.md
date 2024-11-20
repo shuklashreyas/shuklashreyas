@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Stock Trading - Alpaca API + Tensor Flow<br>👯 I’m looking to collaborate on ML Projects, Game Development, Cybersecurity Testing<br>🤝 I’m looking for help with getting hands on experience in the CS industry<br>🌱 I’m currently learning how to use ML to directly benefit my life currently<br>⚡ Fun fact : Born in Netherlands, Originally from India, Grew up in Singapore and currently studying CS at NEU - Boston
+🔭 I’m currently working on Real Time Collaboration Whiteboard in Typescript<br>👯 I’m looking to collaborate on ML Projects, Game Development, Cybersecurity Testing<br>🤝 I’m looking for help with getting hands on experience in the CS industry<br>🌱 I’m currently learning how to use ML to directly benefit my life currently<br>⚡ Fun fact : Born in Netherlands, Originally from India, Grew up in Singapore and currently studying CS at NEU - Boston
 
 
 ## 🌐 Socials:

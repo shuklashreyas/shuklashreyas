@@ -1,12 +1,12 @@
 # 💫 About Me  
 
-## 🔭 Recently finished my **AI/ML Development Co-op** at *Quantum Business Advisory (QBA)*, building AI-driven recruitment solutions.  
-## ⚽ Just finished **SoloLeveller** and now working on an **AI Agent Soccer** project.  
-## 🌱 I use machine learning to solve real problems that impact my day-to-day life.  
-## 👯 Open to collaborating on **Machine Learning, Game Dev, Cybersecurity and Computational Biology**.  
-## 🤝 Actively seeking **new opportunities** to gain hands-on industry experience.  
-## ⚡ Fun fact: Born 🇳🇱, roots 🇮🇳, raised 🇸🇬, studying CS at **Northeastern University – Boston** 🇺🇸.  
-
+Hi, I’m Shreyas
+🔭 I recently finished my **AI/ML Development Co-op** at *Quantum Business Advisory (QBA)*, building AI-driven recruitment solutions.  
+⚽ I just wrapped up **SoloLeveller** and am now working on an **AI Agent Soccer** project.  
+🌱 I’m passionate about using machine learning to solve real-world problems that directly impact my life.  
+👯 I enjoy collaborating on **Machine Learning, Game Development, and Cybersecurity**.  
+🤝 Currently, I’m seeking **new opportunities** to gain hands-on industry experience.  
+⚡ Fun fact: Born 🇳🇱, roots 🇮🇳, raised 🇸🇬, studying CS at **Northeastern University – Boston** 🇺🇸.  
 ---
 
 ## 🌐 Socials  

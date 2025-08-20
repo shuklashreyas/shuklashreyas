@@ -7,6 +7,7 @@ Hi, I’m Shreyas
 👯 I enjoy collaborating on **Machine Learning, Game Development, and Cybersecurity**.  
 🤝 Currently, I’m seeking **new opportunities** to gain hands-on industry experience.  
 ⚡ Fun fact: Born 🇳🇱, roots 🇮🇳, raised 🇸🇬, studying CS at **Northeastern University – Boston** 🇺🇸.  
+
 ---
 
 ## 🌐 Socials  

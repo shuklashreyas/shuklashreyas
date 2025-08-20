@@ -30,7 +30,7 @@
 # 🚀 Recent Projects  
 
 ### **SoloLeveller**  
-A collaborative platform focused on real-time interaction and scalable systems.  
+A gamified habit tracker that levels 7 virtues and 7 sins, logs daily actions for XP, and features journaling, contracts, ranks, themes, XP bar, and sound effects (SFX).  
 🔗 Repo: https://github.com/shuklashreyas/SoloLeveller  
 
 ### **QBA Recruiting System**  

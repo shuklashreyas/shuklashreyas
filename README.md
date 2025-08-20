@@ -1,6 +1,5 @@
 # 💫 About Me  
 
-Hi, I’m Shreyas
 🔭 I recently finished my **AI/ML Development Co-op** at *Quantum Business Advisory (QBA)*, building AI-driven recruitment solutions.  
 ⚽ I just wrapped up **SoloLeveller** and am now working on an **AI Agent Soccer** project.  
 🌱 I’m passionate about using machine learning to solve real-world problems that directly impact my life.  

@@ -1,7 +1,7 @@
 # 💫 About Me  
 
 🔭 I recently finished my **AI/ML Development Co-op** at *Quantum Business Advisory (QBA)*, building AI-driven recruitment solutions.  
-⚽ I just wrapped up **SoloLeveller** and am now working on an **AI Agent Soccer** project.  
+⚽ I just wrapped up **GamifiedHabitTracker** and am now working on an **AI Agent Soccer** project.  
 🌱 I’m passionate about using machine learning to solve real-world problems that directly impact my life.  
 👯 I enjoy collaborating on **Machine Learning, Game Development, and Cybersecurity**.  
 🤝 Currently, I’m seeking **new opportunities** to gain hands-on industry experience.  
@@ -29,7 +29,7 @@
 
 # 🚀 Recent Projects  
 
-### **SoloLeveller**  
+### **GamifiedHabitTracker**  
 A gamified habit tracker that levels 7 virtues and 7 sins, logs daily actions for XP, and features journaling, contracts, ranks, themes, XP bar, and sound effects (SFX).  
 🔗 Repo: https://github.com/shuklashreyas/SoloLeveller  
 

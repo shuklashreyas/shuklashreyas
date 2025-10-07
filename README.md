@@ -41,7 +41,8 @@ Full-stack AI recruiting platform using **FastAPI**, **PostgreSQL**, and **Huggi
 Builds a classifier that detects emotions (happiness, sadness, anger) from short voice recordings using audio features (e.g., **MFCCs**) and classical ML or **CNN** models.  
 🔗 Repo: https://github.com/shuklashreyas/EmotionRecognition  
 
-### **AI Agent Soccer** *(In Progress)*  
-Designing AI agents for intelligent soccer gameplay using reinforcement learning and computer vision, focusing on decision-making and strategy.  
+### **ExamEngine NEU** *(In Progress)*  
+Collaborating with a 7-person full-stack team to develop a Final Exam Scheduler for Northeastern University, improving scheduling efficiency and conflict resolution for students and faculty.
+🔗 Repo: https://github.com/shuklashreyas/ExamEngine
 
 ---

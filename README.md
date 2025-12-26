@@ -52,7 +52,7 @@
 # 🚀 Recent Projects  
 
 ### **ExamEngine NEU**
-- Collaborating with a 7-person full-stack team to develop a final exam scheduler for Northeastern University, focused on scalable conflict resolution and scheduling efficiency.  
+Collaborating with a 7-person full-stack team to develop a final exam scheduler for Northeastern University, focused on scalable conflict resolution and scheduling efficiency.  
 🔗 Repo: https://github.com/shuklashreyas/ExamEngine  
 
 ### **Soccer Scouting Bot**  
@@ -74,4 +74,4 @@ Full-stack AI recruiting platform using **FastAPI**, **PostgreSQL**, and **Huggi
 ### **Emotion Recognition**  
 Builds a classifier that detects emotions (happiness, sadness, anger) from short voice recordings using audio features (e.g., **MFCCs**) and classical ML or **CNN** models.  
 🔗 Repo: https://github.com/shuklashreyas/EmotionRecognition  
----
+

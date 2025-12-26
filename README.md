@@ -1,7 +1,6 @@
-# 💫 About Me  
+# 🇳🇱🇮🇳🇸🇬🇺🇸 About Me  
 
-I’m Shreyas Shukla, a CS senior at Northeastern University (Boston). I recently completed a software consulting project at NEU on ExamEngine—building a scalable final-exam scheduler focused on conflict resolution and scheduling efficiency. I like shipping practical ML + SWE systems (and occasionally computational biology) that solve real problems. Born 🇳🇱, roots 🇮🇳, raised 🇸🇬, living 🇺🇸
-
+### I’m Shreyas Shukla, a CS senior at Northeastern University (Boston). I recently built ExamEngine at NEU—a scalable final-exam scheduler focused on conflict resolution and scheduling efficiency. I like shipping practical ML + SWE systems (and occasionally computational biology) that solve real problems.
 
 
 ## 🌐 Socials  
@@ -52,6 +51,10 @@ I’m Shreyas Shukla, a CS senior at Northeastern University (Boston). I recentl
 
 # 🚀 Recent Projects  
 
+### **ExamEngine NEU**
+- Collaborating with a 7-person full-stack team to develop a final exam scheduler for Northeastern University, focused on scalable conflict resolution and scheduling efficiency.  
+🔗 Repo: https://github.com/shuklashreyas/ExamEngine  
+
 ### **Soccer Scouting Bot**  
 A data-grounded NLP interface that connects user queries to a transparent ML pipeline for player embeddings, role clustering, and automated scouting insights.  
 🔗 Repo: https://github.com/shuklashreyas/Soccer-Scouting-Bot  
@@ -71,8 +74,4 @@ Full-stack AI recruiting platform using **FastAPI**, **PostgreSQL**, and **Huggi
 ### **Emotion Recognition**  
 Builds a classifier that detects emotions (happiness, sadness, anger) from short voice recordings using audio features (e.g., **MFCCs**) and classical ML or **CNN** models.  
 🔗 Repo: https://github.com/shuklashreyas/EmotionRecognition  
-
-### **ExamEngine NEU**
-Collaborating with a 7-person full-stack team to develop a Final Exam Scheduler for Northeastern University, improving scheduling efficiency and conflict resolution for students and faculty.  
-🔗 Repo: https://github.com/shuklashreyas/ExamEngine  
 ---

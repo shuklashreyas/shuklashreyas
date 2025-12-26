@@ -1,10 +1,7 @@
 # 💫 About Me  
 
-🔭 I recently completed a software consulting project at Northeastern University on ExamEngine — scheduling smarter at scale.
-🌱 I build ML systems that solve real problems I actually care about.
-👯 I like collaborating across ML, SWE, and computational biology.
-🤝 I’m currently looking for new opportunities to get more hands-on industry experience.
-⚡ Fun fact: Born 🇳🇱, roots 🇮🇳, raised 🇸🇬, studying CS at Northeastern University – Boston 🇺🇸.
+I’m Shreyas Shukla, a CS senior at Northeastern University (Boston). I recently completed a software consulting project at NEU on ExamEngine—building a scalable final-exam scheduler focused on conflict resolution and scheduling efficiency. I like shipping practical ML + SWE systems (and occasionally computational biology) that solve real problems. Born 🇳🇱, roots 🇮🇳, raised 🇸🇬, living 🇺🇸
+
 
 
 ## 🌐 Socials  
@@ -75,7 +72,7 @@ Full-stack AI recruiting platform using **FastAPI**, **PostgreSQL**, and **Huggi
 Builds a classifier that detects emotions (happiness, sadness, anger) from short voice recordings using audio features (e.g., **MFCCs**) and classical ML or **CNN** models.  
 🔗 Repo: https://github.com/shuklashreyas/EmotionRecognition  
 
-### **ExamEngine NEU** *(In Progress)*  
+### **ExamEngine NEU**
 Collaborating with a 7-person full-stack team to develop a Final Exam Scheduler for Northeastern University, improving scheduling efficiency and conflict resolution for students and faculty.  
 🔗 Repo: https://github.com/shuklashreyas/ExamEngine  
 ---

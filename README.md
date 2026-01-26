@@ -1,31 +1,19 @@
 # 🇳🇱🇮🇳🇸🇬🇺🇸 Shreyas Shukla
 
-**CS senior @ Northeastern (Boston).** Built **ExamEngine**—a scalable final-exam scheduler focused on conflict resolution and scheduling efficiency.  
-I ship practical **ML + SWE** systems (and occasionally computational biology) that solve real problems.
+CS senior @ Northeastern University (Boston). Built **ExamEngine**—a scalable final-exam scheduler focused on conflict resolution and scheduling efficiency. I ship practical ML + SWE systems (and occasionally computational biology) that solve real problems.
 
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-shukla26/)
 
 ---
 
 ## 🚀 Highlighted Work
-
-**ExamEngine (NEU)** — final-exam scheduling system focused on conflict resolution + efficiency.  
-→ [Repo](https://github.com/shuklashreyas/ExamEngine)
-
-**Soccer Scouting Bot** — NLP interface backed by embeddings, clustering, and transparent scouting pipelines.  
-→ [Repo](https://github.com/shuklashreyas/Soccer-Scouting-Bot)
-
-**Brain Disorder Prediction** — Alzheimer’s detection from MRI with CNNs + Bayesian uncertainty.  
-→ [Repo](https://github.com/shuklashreyas/Brain-Disorder-Prediction)
-
-**GamifiedHabitTracker** — XP/leveling tracker with journaling, themes, ranks, and SFX.  
-→ [Repo](https://github.com/shuklashreyas/SoloLeveller)
-
-**QBA Recruiting System** — FastAPI + Postgres recruiting platform with AI-assisted matching.  
-→ [Repo](https://github.com/shuklashreyas/QBARecruitingSystem)
-
-**Emotion Recognition** — voice emotion classification using MFCCs + classical ML/CNNs.  
-→ [Repo](https://github.com/shuklashreyas/EmotionRecognition)
+- **ExamEngine (NEU)** — final-exam scheduling system focused on conflict resolution + efficiency. [Repo](https://github.com/shuklashreyas/ExamEngine)
+- **Soccer Scouting Bot** — NLP interface backed by embeddings, clustering, and transparent scouting pipelines. [Repo](https://github.com/shuklashreyas/Soccer-Scouting-Bot)
+- **Brain Disorder Prediction** — Alzheimer’s detection from MRI with CNNs + Bayesian uncertainty. [Repo](https://github.com/shuklashreyas/Brain-Disorder-Prediction)
+- **GamifiedHabitTracker** — XP/leveling tracker with journaling, themes, ranks, and SFX. [Repo](https://github.com/shuklashreyas/SoloLeveller)
+- **QBA Recruiting System** — FastAPI + Postgres recruiting platform with AI-assisted matching. [Repo](https://github.com/shuklashreyas/QBARecruitingSystem)
+- **Emotion Recognition** — voice emotion classification using MFCCs + classical ML/CNNs. [Repo](https://github.com/shuklashreyas/EmotionRecognition)
 
 ---
 
@@ -45,10 +33,11 @@ I ship practical **ML + SWE** systems (and occasionally computational biology) t
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fas tapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-0A0A0A?style=for-the-badge&logo=alembic&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Databases
@@ -66,3 +55,6 @@ I ship practical **ML + SWE** systems (and occasionally computational biology) t
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+

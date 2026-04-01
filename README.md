@@ -7,13 +7,19 @@ CS senior @ Northeastern University (Boston). Built **ExamEngine**—a scalable 
 
 ---
 
-## 🚀 Highlighted Work
+## 🟢 Highlighted Work
 - **ExamEngine (NEU)** — final-exam scheduling system focused on conflict resolution + efficiency. [Repo](https://github.com/shuklashreyas/ExamEngine)
 - **Soccer Scouting Bot** — NLP interface backed by embeddings, clustering, and transparent scouting pipelines. [Repo](https://github.com/shuklashreyas/Soccer-Scouting-Bot)
 - **Brain Disorder Prediction** — Alzheimer’s detection from MRI with CNNs + Bayesian uncertainty. [Repo](https://github.com/shuklashreyas/Brain-Disorder-Prediction)
 - **GamifiedHabitTracker** — XP/leveling tracker with journaling, themes, ranks, and SFX. [Repo](https://github.com/shuklashreyas/SoloLeveller)
 - **QBA Recruiting System** — FastAPI + Postgres recruiting platform with AI-assisted matching. [Repo](https://github.com/shuklashreyas/QBARecruitingSystem)
 - **Emotion Recognition** — voice emotion classification using MFCCs + classical ML/CNNs. [Repo](https://github.com/shuklashreyas/EmotionRecognition)
+
+---
+
+## 🟠 Currently Working On
+- **AI Soccer Refree** — AI refree platfrom where users upload video clips, and get a clean verdict. [Repo](https://github.com/shuklashreyas/ExamEngine)
+- **Personal Website** — My website showcasing my books, projects, and ideas. [Website](https://www.shuklashreyas.com/)
 
 ---
 

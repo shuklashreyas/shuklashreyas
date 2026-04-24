@@ -18,7 +18,7 @@ CS senior @ Northeastern University (Boston). Built **ExamEngine**—a scalable 
 ---
 
 ## 🟠 Currently Working On
-- **AI Soccer Refree** — AI refree platfrom where users upload video clips, and get a clean verdict. [Repo](https://github.com/shuklashreyas/ExamEngine)
+- **AI Soccer Refree** — AI refree platfrom where users upload video clips, and get a clean verdict. [Repo](https://github.com/shuklashreyas/Refara)
 - **Personal Website** — My website showcasing my books, projects, and ideas. [Website](https://www.shuklashreyas.com/)
 
 ---

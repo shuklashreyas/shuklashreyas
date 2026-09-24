@@ -1,24 +1,13 @@
-# 🇳🇱🇮🇳🇸🇬🇺🇸 Shreyas Shukla
+# Shreyas Shukla
 
-## 🔗 Links
+## Links
 
 [![shuklashreyas.com](https://img.shields.io/badge/shuklashreyas.com-6C63FF?style=for-the-badge)](https://www.shuklashreyas.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-shukla26/)
 
 ---
 
-## 🟢 Highlighted Work
-
-- **ExamEngine (NEU)** - final-exam scheduling system focused on conflict resolution + efficiency. [Repo](https://github.com/shuklashreyas/ExamEngine)
-- **Soccer Scouting Bot** - NLP interface backed by embeddings, clustering, and transparent scouting pipelines. [Repo](https://github.com/shuklashreyas/Soccer-Scouting-Bot)
-- **Brain Disorder Prediction** - Alzheimer’s detection from MRI with CNNs + Bayesian uncertainty. [Repo](https://github.com/shuklashreyas/Brain-Disorder-Prediction)
-- **Gamified Habit Tracker** - XP/leveling tracker with journaling, themes, ranks, and SFX. [Repo](https://github.com/shuklashreyas/SoloLeveller)
-- **QBA Recruiting System** - FastAPI + Postgres recruiting platform with AI-assisted matching. [Repo](https://github.com/shuklashreyas/QBARecruitingSystem)
-- **Emotion Recognition** - voice emotion classification using MFCCs + classical ML/CNNs. [Repo](https://github.com/shuklashreyas/EmotionRecognition)
-
----
-
-## 🟠 Currently Working On
+## Currently Working On
 
 - **Refara** - AI referee platform where users upload soccer clips and get a clean verdict.
 - **CodeHound** - Independently verifies code changes by testing whether a patch actually improves the software without breaking hidden behavior or gaming the evaluation.

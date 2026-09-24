@@ -1,7 +1,5 @@
 # 🇳🇱🇮🇳🇸🇬🇺🇸 Shreyas Shukla
 
-Recent CS grad from Northeastern University, focused on AI/ML + SWE. Built **ExamEngine**, a scalable final-exam scheduler focused on conflict resolution and scheduling efficiency. I like shipping practical ML + backend systems that solve real problems, especially around sports, education, and applied AI.
-
 ## 🔗 Links
 
 [![shuklashreyas.com](https://img.shields.io/badge/shuklashreyas.com-6C63FF?style=for-the-badge)](https://www.shuklashreyas.com/)
@@ -22,7 +20,8 @@ Recent CS grad from Northeastern University, focused on AI/ML + SWE. Built **Exa
 
 ## 🟠 Currently Working On
 
-- **Refara** - AI referee platform where users upload soccer clips and get a clean verdict. [Repo](https://github.com/shuklashreyas/Refara)
+- **Refara** - AI referee platform where users upload soccer clips and get a clean verdict.
+- **CodeHound** - Independently verifies code changes by testing whether a patch actually improves the software without breaking hidden behavior or gaming the evaluation.
 
 ---
 

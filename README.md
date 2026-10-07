@@ -39,8 +39,3 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### AI Development
-
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logoColor=white)

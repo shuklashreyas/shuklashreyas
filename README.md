@@ -9,8 +9,8 @@
 
 ## Currently Working On
 
-- **Refara** - AI referee platform where users upload soccer clips and get a clean verdict.
-- **CodeHound** - Independently verifies code changes by testing whether a patch actually improves the software without breaking hidden behavior or gaming the evaluation.
+- **[Refara](https://www.shuklashreyas.com/refara)** - AI referee platform where users upload soccer clips and get a clean verdict.
+- **[CodeHound](https://www.shuklashreyas.com/projects/codehound)** - Independently verifies code changes by testing whether a patch actually improves the software without breaking hidden behavior or gaming the evaluation.
 - **[Personal Website](https://shuklashreyas.com)** - Blog Posts, Projects, and more!
 
 ---

@@ -5,15 +5,19 @@
 [![shuklashreyas.com](https://img.shields.io/badge/shuklashreyas.com-6C63FF?style=for-the-badge)](https://www.shuklashreyas.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-shukla26/)
 
+
 ---
 
 ## Currently Working On
 
-- **[Refara](https://www.shuklashreyas.com/refara)** - AI referee platform where users upload soccer clips and get a clean verdict.
-- **[CodeHound](https://www.shuklashreyas.com/projects/codehound)** - Independently verifies code changes by testing whether a patch actually improves the software without breaking hidden behavior or gaming the evaluation.
-- **[Personal Website](https://shuklashreyas.com)** - Blog Posts, Projects, and more!
+- <img src="./refara.png" alt="Refara" width="28" /> **[Refara](https://www.shuklashreyas.com/refara)** - AI soccer referee where users upload clips and receive a verdict.
+
+- <img src="./codehound.png" alt="CodeHound" width="28" /> **[CodeHound](https://www.shuklashreyas.com/projects/codehound)** - Independently verifies code changes by testing whether patches improve software without introducing regressions.
+
+- 🌐 **[Personal Website](https://shuklashreyas.com)** - Blog posts, projects, and more!
 
 ---
+
 
 ## Tech Stack
 
